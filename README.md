@@ -1,2 +1,2 @@
-# static-website-s3
+# S3 Static Website
 AWS S3 Static Website Example
